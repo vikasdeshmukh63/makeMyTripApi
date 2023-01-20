@@ -1,16 +1,16 @@
-(1) FOR GETTING ALL CITIES OFFER BY API
+(1) FOR GETTING ALL CITIES OFFER BY API (GET REQUEST)
     http://localhost:5000/cities
 
-(2) FOR GETTING ALL HOTELS OFFER BY API
+(2) FOR GETTING ALL HOTELS OFFER BY API (GET REQUEST)
     http://localhost:5000/hotels
 
-(3) FOR GETTING HOTELS WITH RESPECT TO STATE ID
+(3) FOR GETTING HOTELS WITH RESPECT TO STATE ID (GET REQUEST)
     http://localhost:5000/hotels/state_id/:id
 
-(4) FOR GETTING HOTELS WITH RESPECT TO HOTEL ID
+(4) FOR GETTING HOTELS WITH RESPECT TO HOTEL ID (GET REQUEST)
     http://localhost:5000//hotels/hotel_id/:id
 
-(5) FOR FILTERING HOTEL LIST BASED ON THE AMENITIES AVAILABLE
+(5) FOR FILTERING HOTEL LIST BASED ON THE AMENITIES AVAILABLE (GET REQUEST)
     http://localhost:5000/filter/amenities?query={value}
  
     queries available are listed below
@@ -24,7 +24,7 @@
     for True = 1, 
     for False = 0
 
-(6) FOR FILTERING HOTEL LIST BASED ON THE HOTEL RULES
+(6) FOR FILTERING HOTEL LIST BASED ON THE HOTEL RULES (GET REQUEST)
     http://localhost:5000/filter/hotelrules?query={value}
 
     queries available are listed below
@@ -38,7 +38,7 @@
     for True = 1, 
     for False = 0
 
-(7) TO GET HOTELS BASED ON THEIR CATEGORY ID'S 
+(7) TO GET HOTELS BASED ON THEIR CATEGORY ID'S (GET REQUEST)
     http://localhost:5000/filter/category/:category_id
 
     there are total seven categories
@@ -50,7 +50,7 @@
     6-Gastro hotels,
     7-Heritage hotels
 
-(8) TO GET HOTEL CATEGORIES
+(8) TO GET HOTEL CATEGORIES (GET REQUEST)
 
     i. to get all the categories available
        http://localhost:5000/category
@@ -58,7 +58,7 @@
    ii. to get specific category according to category id
        http://localhost:5000/category?category_id={value}
 
-(9) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT 
+(9) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT (GET REQUEST)
     http://localhost:5000/filter/price?query={parameter}
    
    i. for getting hotels price low to high
@@ -73,7 +73,7 @@
       sort value should be 1 for getting list in ascending order 
       sort value should be -1 for getting list in descending order 
 
-(10) TO GET BOOKING DATA 
+(10) TO GET BOOKING DATA (GET REQUEST)
 
    i. get all the booking data
       http://localhost:5000/bookings
@@ -81,21 +81,21 @@
   ii. to get booking data of certain email
       http://localhost:5000/bookings?email={email}
 
-(11) FOR DOING BOOKING
+(11) FOR DOING BOOKING (POST REQUEST)
      http://localhost:5000/createbooking
 
      pass the booking data in body
 
-(12) FOR UPDATING THE BOOKING
+(12) FOR UPDATING THE BOOKING (PUT REQUEST)
      http://localhost:5000/updatebooking/:id
      
      pass the id of the data which we want to update
      pass the data which we want to update in body
 
-(13) FOR DELETING THE BOOKING DATA
+(13) FOR DELETING THE BOOKING DATA (DELETE REQUEST)
      http://localhost:5000/deletebooking/:id
 
      pass the id of the data which we want to delete
 
-(14) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS 
+(14) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS (GET REQUEST)
      http://localhost:5000/roomdata
