@@ -1,0 +1,274 @@
+[
+  {
+    "hotel_id": 1,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 2,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 3,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 4,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 5,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 6,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "0",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 7,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 8,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 9,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 10,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 11,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "0",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 12,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "0",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 13,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 14,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 15,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 16,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 17,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 18,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 19,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 20,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 21,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 22,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 23,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 24,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 25,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 26,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 27,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 28,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 29,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 30,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 31,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 32,
+    "free_cancellation": "1",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 33,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 34,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  }
+]

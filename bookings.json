@@ -1,0 +1,14 @@
+[
+  {
+    "booking_id": 1,
+    "name": "vikas Deshmukh",
+    "email": "vikas@gmail.com",
+    "contact_no": 1254784512,
+    "total_cost": 2900,
+    "booking_date": "21-05-2021",
+    "persons": 1,
+    "rooms_booked": 1,
+    "room_id": "a2",
+    "room_type": "Deluxe"
+  }
+]

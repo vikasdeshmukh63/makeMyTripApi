@@ -1,0 +1,1296 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "Delhi",
+    "state_id": 1,
+    "state_name": "Delhi",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Imperial",
+    "description": "Experience luxury and grandeur at The Imperial, a 5-star hotel located in the heart of Delhi. The hotel features elegant rooms and suites, fine dining options, a fitness center, and a rooftop pool with panoramic views of the city. Perfect for both business and leisure travelers.",
+    "hotel_id": 1,
+    "hotel_rating": 5,
+    "price_per_night": 2800,
+    "image_url": "https://ibb.co/PgD0krz",
+    "category_id": 7,
+    "rooms": [
+      {
+        "room_id": "a1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "a2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "a3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "a4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "a5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "a6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "a7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "a8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 1,
+    "city_name": "Delhi",
+    "state_id": 1,
+    "state_name": "Delhi",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Leela Palace",
+    "description": "Indulge in the ultimate luxury at The Leela Palace, a 4.5-star hotel located in the bustling city of Mumbai. The hotel features opulent rooms and suites, a spa and wellness center, a variety of dining options, and a rooftop infinity pool with stunning views. Ideal for those seeking a lavish and unforgettable stay.",
+    "hotel_id": 2,
+    "hotel_rating": 4.5,
+    "price_per_night": 2300,
+    "image_url": "https://ibb.co/fnmd6xM",
+    "category_id": 5,
+    "rooms": [
+      {
+        "room_id": "b1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "b2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "b3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "b4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "b5",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "b6",
+        "room_type": "Executive Room"
+      }
+    ]
+  },
+  {
+    "city_id": 1,
+    "city_name": "Delhi",
+    "state_id": 1,
+    "state_name": "Delhi",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Lodhi",
+    "description": "Stay in the lap of luxury at The Lodhi, a 4-star hotel located in the historic city of Kolkata. The hotel features stylish rooms and suites, a fitness center, an outdoor pool, and a range of dining options. Perfect for travelers looking for a blend of elegance and comfort.",
+    "hotel_id": 3,
+    "hotel_rating": 4,
+    "price_per_night": 2100,
+    "image_url": "https://ibb.co/mCRC3Dr",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "c1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "c2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "c3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 2,
+    "city_name": "Mumbai",
+    "state_id": 2,
+    "state_name": "Maharashtra",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Taj Mahal Palace",
+    "description": "Experience the grandeur of India's rich history at The Taj Mahal Palace, a 5-star hotel located in the city of Mumbai. The hotel features luxurious rooms and suites, a spa and wellness center, a variety of dining options, and a fitness center. Ideal for those seeking a truly regal experience.",
+    "hotel_id": 4,
+    "hotel_rating": 5,
+    "price_per_night": 4200,
+    "image_url": "https://ibb.co/RYVPvHY",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "d1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "d2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "d3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "d4",
+        "room_type": "Single Room"
+      }
+    ]
+  },
+  {
+    "city_id": 2,
+    "city_name": "Mumbai",
+    "state_id": 2,
+    "state_name": "Maharashtra",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Oberoi",
+    "description": "Escape to the lap of luxury at The Oberoi, a 4.5-star hotel located in the bustling city of Mumbai. The hotel features elegant rooms and suites, a spa and wellness center, a variety of dining options, and an outdoor pool. Perfect for travelers looking for a blend of elegance and comfort.",
+    "hotel_id": 5,
+    "hotel_rating": 4.5,
+    "price_per_night": 3500,
+    "image_url": "https://ibb.co/hMydfTX",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "e1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "e2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "e3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "e4",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "e5",
+        "room_type": "Executive Room"
+      }
+    ]
+  },
+  {
+    "city_id": 2,
+    "city_name": "Mumbai",
+    "state_id": 2,
+    "state_name": "Maharashtra",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Trident",
+    "description": "Experience the best of Indian hospitality at The Trident, a 4-star hotel located in the city of Mumbai. The hotel features stylish rooms and suites, a fitness center, a variety of dining options, and an outdoor pool. Ideal for those seeking a blend of elegance and comfort.",
+    "hotel_id": 6,
+    "hotel_rating": 4,
+    "price_per_night": 2800,
+    "image_url": "https://ibb.co/6tSk3Yb",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "f1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "f2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "f3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "f4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "f5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "f6",
+        "room_type": "Family Room"
+      }
+    ]
+  },
+  {
+    "city_id": 3,
+    "city_name": "Kolkata",
+    "state_id": 3,
+    "state_name": "West Bengal",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Park",
+    "description": "The Park hotel is a luxurious and elegant hotel located in the heart of Kolkata. The hotel offers a variety of amenities including a fitness center, a spa, and an outdoor pool. Guests can enjoy delicious meals at the on-site restaurant and relax in the comfortable rooms and suites. The hotel is also conveniently located near popular attractions such as Victoria Memorial and St. Paul's Cathedral. Whether you're visiting for business or pleasure, The Park hotel is the perfect choice for a comfortable and enjoyable stay in Kolkata.",
+    "hotel_id": 7,
+    "hotel_rating": 4.5,
+    "price_per_night": 2550,
+    "image_url": "https://ibb.co/Y78WXNC",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "g1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "g2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "g3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "g4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "g5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "g6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "g7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "g8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 8,
+    "city_name": "New York",
+    "state_id": 8,
+    "state_name": "New York",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Plaza",
+    "description": "The Plaza is a luxurious hotel located in the heart of New York City. The hotel features elegant rooms and suites with stunning views of Central Park and the city skyline. The hotel also offers a range of dining options, including a fine-dining restaurant and a casual bistro. Guests can relax at the hotel's spa and fitness center or take a stroll through Central Park. The hotel also offers a range of business and event facilities for meetings and conferences. The Plaza is the perfect choice for a luxurious and memorable stay in New York City.",
+    "hotel_id": 8,
+    "hotel_rating": 5,
+    "price_per_night": 1750,
+    "image_url": "https://ibb.co/QP07rj3",
+    "category_id": 6,
+    "rooms": [
+      {
+        "room_id": "h1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "h2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "h3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "h4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "h5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "h6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "h7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "h8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 8,
+    "city_name": "New York",
+    "state_id": 8,
+    "state_name": "New York",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Waldorf Astoria",
+    "description": "The Waldorf Astoria is a luxury hotel located in the heart of New York City, offering guests a truly unparalleled experience. With its sophisticated decor, elegant guest rooms, and world-class amenities, this hotel is the perfect choice for travelers looking for the ultimate in luxury and comfort. Guests can enjoy fine dining, a fitness center, and a full-service spa, all within the hotel's grand and historic building. Whether you're in town for business or pleasure, The Waldorf Astoria is sure to exceed your expectations.",
+    "hotel_id": 9,
+    "hotel_rating": 4.5,
+    "price_per_night": 1400,
+    "image_url": "https://ibb.co/MVy6bRh",
+    "category_id": 2,
+    "rooms": [
+      {
+        "room_id": "i1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "i2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "i3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "i4",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 8,
+    "city_name": "New York",
+    "state_id": 8,
+    "state_name": "New York",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Ritz Carlton",
+    "description": "The Ritz Carlton is a luxurious hotel located in the heart of the city. Known for its elegant decor, impeccable service and world-class amenities, this hotel offers guests a truly unparalleled experience. With spacious guest rooms, a full-service spa, fine dining options and state-of-the-art fitness facilities, The Ritz Carlton is the perfect choice for travelers looking for the ultimate in comfort and luxury.",
+    "hotel_id": 10,
+    "hotel_rating": 4,
+    "price_per_night": 1050,
+    "image_url": "https://ibb.co/vzGzF72",
+    "category_id": 7,
+    "rooms": [
+      {
+        "room_id": "j1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "j2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "j3",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "j4",
+        "room_type": "Executive Room"
+      }
+    ]
+  },
+  {
+    "city_id": 9,
+    "city_name": "Los Angeles",
+    "state_id": 9,
+    "state_name": "California",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Beverly Hills Hotel",
+    "description": "The Beverly Hills Hotel, also known as the Pink Palace, is a luxurious 5-star hotel located in the heart of Beverly Hills. With its iconic pink facade, the hotel offers guests a truly elegant and upscale experience. Guests can enjoy comfortable and spacious rooms, fine dining, a full-service spa, and a large outdoor pool. The hotel is also just a short drive away from the famous Rodeo Drive, where guests can indulge in some of the best shopping and dining in the city.",
+    "hotel_id": 11,
+    "hotel_rating": 5,
+    "price_per_night": 2100,
+    "image_url": "https://ibb.co/p2cx1FH",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "k1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "k2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "k3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "k4",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "k5",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "k6",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 9,
+    "city_name": "Los Angeles",
+    "state_id": 9,
+    "state_name": "California",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Four Seasons",
+    "description": "The Four Seasons is a luxury hotel known for its exceptional service and elegant accommodations. The hotel features a variety of room types, including standard rooms, suites, and private villas, all of which are outfitted with plush bedding, flat-screen TVs, and complimentary Wi-Fi. Guests can enjoy on-site dining options, a full-service spa, and a fitness center. The hotel also offers a business center and meeting rooms for corporate guests. Whether you're traveling for business or pleasure, The Four Seasons is a top choice for a luxurious stay.",
+    "hotel_id": 12,
+    "hotel_rating": 4.5,
+    "price_per_night": 1800,
+    "image_url": "https://ibb.co/X7CLN2J",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "l1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "l2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "l3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "l4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "l5",
+        "room_type": "Twin Room"
+      }
+    ]
+  },
+  {
+    "city_id": 9,
+    "city_name": "Los Angeles",
+    "state_id": 9,
+    "state_name": "California",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Beverly Wilshire",
+    "description": "The Beverly Wilshire, located in the heart of Beverly Hills, is a luxurious hotel that offers a blend of old Hollywood glamour and modern amenities. Guests can enjoy spacious guest rooms and suites, each featuring elegant decor and state-of-the-art technology. The hotel features a full-service spa, fitness center, and outdoor pool. Dining options include the renowned Wolfgang Puck restaurant and a rooftop bar with stunning views of the city. The Beverly Wilshire is also conveniently located near popular shopping, dining, and entertainment destinations in Beverly Hills and Los Angeles.",
+    "hotel_id": 13,
+    "hotel_rating": 4,
+    "price_per_night": 1500,
+    "image_url": "https://ibb.co/qN3tvdN",
+    "category_id": 5,
+    "rooms": [
+      {
+        "room_id": "m1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "m2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "m3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 16,
+    "city_name": "London",
+    "state_id": 16,
+    "state_name": "London",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Ritz London",
+    "description": "The Ritz London is a luxurious 5-star hotel located in the heart of London's prestigious Mayfair neighborhood. The hotel boasts elegant and spacious guest rooms, many of which offer stunning views of the city. Guests can indulge in the hotel's fine dining options, including the Michelin-starred Ritz Restaurant, or relax in the hotel's tranquil spa and fitness center. The Ritz London also offers a range of event and meeting spaces, making it the perfect venue for business or social events. With its prime location and impeccable service, The Ritz London is the epitome of refined luxury.",
+    "hotel_id": 14,
+    "hotel_rating": 5,
+    "price_per_night": 1400,
+    "image_url": "https://ibb.co/7r8rNqh",
+    "category_id": 7,
+    "rooms": [
+      {
+        "room_id": "n1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "n2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "n3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "n4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "n5",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "n6",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 17,
+    "city_name": "Manchester",
+    "state_id": 17,
+    "state_name": "Manchester",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Midland",
+    "description": "The Midland is a luxurious hotel located in the heart of Manchester, UK. The hotel offers a blend of traditional Victorian architecture and modern amenities. The hotel features elegant guest rooms and suites, many with views of the city. Guests can enjoy a range of dining options at the hotel, including a fine dining restaurant and a casual bistro. The hotel also offers a fitness center, a spa, and a rooftop terrace with a bar and lounge. The Midland is the perfect choice for travelers looking for a sophisticated and luxurious stay in Manchester.",
+    "hotel_id": 15,
+    "hotel_rating": 4.5,
+    "price_per_night": 1200,
+    "image_url": "https://ibb.co/YD1XxRF",
+    "category_id": 7,
+    "rooms": [
+      {
+        "room_id": "o1",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "o2",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "o3",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "o4",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "o5",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 17,
+    "city_name": "Manchester",
+    "state_id": 17,
+    "state_name": "Manchester",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Lowry",
+    "description": "The Lowry is a luxurious hotel located in the heart of Manchester, England. The hotel boasts a prime location in the city center, making it a great choice for business and leisure travelers alike. The hotel features elegant guest rooms and suites, all of which are tastefully decorated and equipped with modern amenities. Guests can enjoy fine dining at the hotel's restaurant, or relax in the hotel's spa and wellness center. The hotel also offers a range of business facilities, making it a popular choice for corporate events and meetings. Whether you're visiting Manchester for work or play, The Lowry is the perfect place to stay.",
+    "hotel_id": 16,
+    "hotel_rating": 4,
+    "price_per_night": 1000,
+    "image_url": "https://ibb.co/k3vNxRk",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "p1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "p2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "p3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "p4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "p5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "p6",
+        "room_type": "Family Room"
+      }
+    ]
+  },
+  {
+    "city_id": 18,
+    "city_name": "Liverpool",
+    "state_id": 18,
+    "state_name": "Liverpool",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Hope Street Hotel",
+    "description": "The Hope Street Hotel is located in the heart of Liverpool, offering comfortable and stylish accommodations for guests. The hotel features beautifully appointed guest rooms and suites, each equipped with modern amenities and complimentary Wi-Fi. Guests can also enjoy on-site dining options, a fitness center and a relaxing spa. The hotel is ideally located close to many of Liverpool's top attractions, including the Liverpool ONE shopping center, the Royal Albert Dock, and the Echo Arena. Whether you're in town for business or pleasure, The Hope Street Hotel is the perfect choice for your stay in Liverpool.",
+    "hotel_id": 17,
+    "hotel_rating": 4.5,
+    "price_per_night": 900,
+    "image_url": "https://ibb.co/hVF9zs8",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "q1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "q2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "q3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "q4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "q5",
+        "room_type": "Twin Room"
+      }
+    ]
+  },
+  {
+    "city_id": 18,
+    "city_name": "Liverpool",
+    "state_id": 18,
+    "state_name": "Liverpool",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Hard Days Night Hotel",
+    "description": "The Hard Days Night Hotel is a luxurious and stylish hotel located in the heart of Liverpool, England. The hotel is set in a charming and historic building, and offers guests a range of modern amenities and services. The hotel's guest rooms are all beautifully designed, and feature comfortable and contemporary furnishings. Guests can enjoy a delicious breakfast and dinner in the hotel's restaurant, or relax with a drink in the hotel's stylish bar. The hotel also features a fitness center, and guests can take advantage of the hotel's convenient location to explore the many attractions of Liverpool. Whether you're in town for business or pleasure, The Hard Days Night Hotel is the perfect place to stay.",
+    "hotel_id": 18,
+    "hotel_rating": 4,
+    "price_per_night": 800,
+    "image_url": "https://ibb.co/2NFfkm8",
+    "category_id": 4,
+    "rooms": [
+      {
+        "room_id": "r1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "r2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "r3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "r4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "r5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "r6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "r7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "r8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 19,
+    "city_name": "Birmingham",
+    "state_id": 19,
+    "state_name": "Birmingham",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Hotel La Tour",
+    "description": "The Hotel La Tour is a modern and stylish hotel located in the heart of Birmingham. It offers luxurious guest rooms and suites, all equipped with comfortable bedding, flat-screen TVs, and complimentary Wi-Fi. The hotel features an on-site restaurant, a fitness center, and a business center. Guests can also enjoy the hotel's rooftop terrace, offering stunning views of the city. The hotel is conveniently located near popular attractions such as the Bullring Shopping Center and the Library of Birmingham. It is also within walking distance to the city's business and entertainment districts. With its prime location and comfortable amenities, The Hotel La Tour is the perfect choice for both business and leisure travelers.",
+    "hotel_id": 19,
+    "hotel_rating": 4.5,
+    "price_per_night": 700,
+    "image_url": "https://ibb.co/QKP8JR1",
+    "category_id": 4,
+    "rooms": [
+      {
+        "room_id": "s1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "s2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "s3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 19,
+    "city_name": "Birmingham",
+    "state_id": 19,
+    "state_name": "Birmingham",
+    "country_id": 3,
+    "country_name": "United Kingdom",
+    "hotel_name": "The Hotel Indigo",
+    "description": "The Hotel Indigo is a chic and contemporary hotel located in the heart of the city. With its sleek and modern design, this hotel offers guests a stylish and comfortable stay. The hotel features a variety of room options, including standard rooms, deluxe rooms, and suites. Each room is equipped with modern amenities such as free Wi-Fi, flat-screen TVs, and comfortable bedding. Guests can also enjoy on-site dining at the hotel's restaurant, as well as access to the hotel's fitness center and business center. Whether you're traveling for business or pleasure, The Hotel Indigo is the perfect choice for your next trip.",
+    "hotel_id": 20,
+    "hotel_rating": 4,
+    "price_per_night": 600,
+    "image_url": "https://ibb.co/bNXgKV3",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "t1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "t2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "t3",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "t4",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "t5",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 20,
+    "city_name": "Paris",
+    "state_id": 20,
+    "state_name": "Paris",
+    "country_id": 4,
+    "country_name": "France",
+    "hotel_name": "The Ritz Paris",
+    "description": "The Ritz Paris is a luxurious hotel located in the heart of the city, just steps away from the famous Champs-Elysées. The hotel features elegant guest rooms and suites, each uniquely decorated and equipped with modern amenities. Guests can enjoy fine dining at the hotel's Michelin-starred restaurant, as well as spa services and a fitness center. The hotel is known for its impeccable service and attention to detail, making it a perfect choice for those looking for a truly special experience in the City of Lights.",
+    "hotel_id": 21,
+    "hotel_rating": 5,
+    "price_per_night": 1800,
+    "image_url": "https://ibb.co/QY7pYXF",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "u1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "u2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "u3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "u4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "u5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "u6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "u7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "u8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 21,
+    "city_name": "Rome",
+    "state_id": 21,
+    "state_name": "Rome",
+    "country_id": 5,
+    "country_name": "Italy",
+    "hotel_name": "The St. Regis Rome",
+    "description": "The St. Regis Rome is a luxurious 5-star hotel located in the heart of Rome. This hotel offers elegant and spacious guest rooms, each featuring plush bedding, marble bathrooms, and state-of-the-art amenities. Guests can enjoy world-class dining at the hotel's restaurant, as well as access to a fitness center and spa. The hotel is also conveniently located near many of Rome's top attractions, including the Colosseum and the Vatican. Whether you're traveling for business or pleasure, The St. Regis Rome offers the ultimate in luxury and comfort.",
+    "hotel_id": 22,
+    "hotel_rating": 5,
+    "price_per_night": 1950,
+    "image_url": "https://ibb.co/QnWvhb0",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "v1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "v2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "v3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 21,
+    "city_name": "Rome",
+    "state_id": 21,
+    "state_name": "Rome",
+    "country_id": 5,
+    "country_name": "Italy",
+    "hotel_name": "The Westin Excelsior Rome",
+    "description": "The Westin Excelsior Rome is a luxurious hotel located in the heart of Rome. This hotel offers breathtaking views of the city, as well as a wide range of amenities, including a fitness center, a spa, and multiple dining options. Guests can also enjoy easy access to many of Rome's famous landmarks and attractions, such as the Colosseum and the Vatican. This hotel is perfect for those looking for a lavish and unforgettable experience in the eternal city.",
+    "hotel_id": 23,
+    "hotel_rating": 4.5,
+    "price_per_night": 1650,
+    "image_url": "https://ibb.co/445SHy2",
+    "category_id": 5,
+    "rooms": [
+      {
+        "room_id": "w1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "w2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "w3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "w4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "w5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "w6",
+        "room_type": "Family Room"
+      }
+    ]
+  },
+  {
+    "city_id": 22,
+    "city_name": "Venice",
+    "state_id": 22,
+    "state_name": "Venice",
+    "country_id": 5,
+    "country_name": "Italy",
+    "hotel_name": "The Gritti Palace",
+    "description": "The Gritti Palace is a luxurious 5-star hotel located in the heart of Venice, Italy. The hotel offers elegant and spacious rooms and suites, all of which are decorated in a traditional Venetian style with high ceilings and beautiful frescoes. Guests can enjoy delicious Italian cuisine at the hotel's restaurant, and relax in the beautiful private garden or in the rooftop terrace with views over the city. The Gritti Palace also features a fitness center, a sauna and a Turkish bath, making it the perfect place to unwind and rejuvenate after a day of exploring Venice's historic streets. The hotel also offer a private boat transfer service to and from the hotel. The hotel is just a short walk from many of Venice's famous landmarks and attractions, including St. Mark's Basilica, the Rialto Bridge, and the Peggy Guggenheim Collection.",
+    "hotel_id": 24,
+    "hotel_rating": 5,
+    "price_per_night": 2200,
+    "image_url": "https://ibb.co/pzXRS38",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "x1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "x2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "x3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "x4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "x5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "x6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "x7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "x8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 22,
+    "city_name": "Venice",
+    "state_id": 22,
+    "state_name": "Venice",
+    "country_id": 5,
+    "country_name": "Italy",
+    "hotel_name": "The Belmond Hotel Cipriani",
+    "description": "The Belmond Hotel Cipriani is a luxurious 5-star hotel located on the island of Giudecca in Venice, Italy. The hotel offers breathtaking views of the Venetian Lagoon and the city of Venice, and features a private beach, a large outdoor swimming pool, and a variety of dining options. Guests can relax in the hotel's spa and wellness center, or take a gondola ride through the canals of Venice. The hotel's rooms and suites are elegantly decorated, and feature marble bathrooms and private terraces with views of the lagoon. The Belmond Hotel Cipriani is the perfect choice for those looking for a luxurious and romantic getaway in Venice.",
+    "hotel_id": 25,
+    "hotel_rating": 4.5,
+    "price_per_night": 1900,
+    "image_url": "https://ibb.co/dM38hWQ",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "y1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "y2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "y3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 23,
+    "city_name": "Florence",
+    "state_id": 23,
+    "state_name": "Florence",
+    "country_id": 5,
+    "country_name": "Italy",
+    "hotel_name": "The Four Seasons Hotel Firenze",
+    "description": "The Four Seasons Hotel Firenze is a luxurious 5-star hotel located in the heart of Florence, Italy. The hotel boasts beautiful views of the Arno River and the city's historic landmarks such as the Ponte Vecchio bridge and the Uffizi Gallery. Guests can indulge in the hotel's spa, fitness center, and indoor pool, or dine at one of the hotel's three on-site restaurants. The hotel's guest rooms and suites feature elegant decor, marble bathrooms, and modern amenities. The Four Seasons Hotel Firenze is the perfect choice for travelers looking for a luxurious and centrally-located base from which to explore the city's art, culture, and history.",
+    "hotel_id": 26,
+    "hotel_rating": 5,
+    "price_per_night": 1800,
+    "image_url": "https://ibb.co/2gjwT2k",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "z1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "z2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "z3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "z4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "z5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "z6",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 23,
+    "city_name": "Florence",
+    "state_id": 23,
+    "state_name": "Florence",
+    "country_id": 5,
+    "country_name": "Italy",
+    "hotel_name": "The Grand Hotel Villa Cora",
+    "description": "The Grand Hotel Villa Cora is a luxurious, 19th century villa located in the heart of Florence, Italy. The hotel boasts elegant, Italian-style decor and features a beautiful garden, a rooftop terrace with panoramic views, and a large outdoor swimming pool. Guests can indulge in the hotel's spa and fitness center, or dine at one of the hotel's two restaurants which serve delicious Italian cuisine. The hotel is also conveniently located near many of Florence's famous landmarks and attractions, making it the perfect choice for those looking for a luxurious and authentic Italian experience.",
+    "hotel_id": 27,
+    "hotel_rating": 4.5,
+    "price_per_night": 1600,
+    "image_url": "https://ibb.co/QD7Yhmn",
+    "category_id": 5,
+    "rooms": [
+      {
+        "room_id": "aa1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "aa2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "aa3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 24,
+    "city_name": "Barcelona",
+    "state_id": 24,
+    "state_name": "Barcelona",
+    "country_id": 6,
+    "country_name": "Spain",
+    "hotel_name": "The Mandarin Oriental",
+    "description": "The Mandarin Oriental is a luxurious hotel located in the heart of the city. It boasts of elegant rooms and suites that are beautifully decorated, offering guests a comfortable and refined stay. The hotel features a rooftop terrace with stunning views, a spa and fitness center, and a fine dining restaurant that serves delicious Mediterranean cuisine. The Mandarin Oriental is also ideally located for exploring the city's many attractions, with many of the best museums, galleries, and shopping districts within easy reach. Guests can expect impeccable service and attention to detail throughout their stay, making it the perfect choice for a sophisticated and memorable experience.",
+    "hotel_id": 28,
+    "hotel_rating": 5,
+    "price_per_night": 1400,
+    "image_url": "https://ibb.co/Mcm9Fy6",
+    "category_id": 2,
+    "rooms": [
+      {
+        "room_id": "ab1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ab2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ab3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "ab4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "ab5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "ab6",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "ab7",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "ab8",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 24,
+    "city_name": "Barcelona",
+    "state_id": 24,
+    "state_name": "Barcelona",
+    "country_id": 6,
+    "country_name": "Spain",
+    "hotel_name": "The Arts Hotel",
+    "description": "The Arts Hotel, located in the heart of Barcelona, offers a unique blend of contemporary elegance and classic charm. The hotel features sleek, modern rooms with free Wi-Fi, flat-screen TVs, and private balconies with city views. Guests can relax in the hotel's rooftop terrace, enjoy a meal in the on-site restaurant, or take a dip in the outdoor pool. The hotel is also just steps away from some of the city's most iconic attractions, including the Picasso Museum, the Gothic Quarter, and La Rambla. Whether you're in town for business or pleasure, The Arts Hotel is the perfect place to experience the best of Barcelona.",
+    "hotel_id": 29,
+    "hotel_rating": 4.5,
+    "price_per_night": 1200,
+    "image_url": "https://ibb.co/nCTcNyG",
+    "category_id": 7,
+    "rooms": [
+      {
+        "room_id": "ac1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ac2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ac3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "ac4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "ac5",
+        "room_type": "Twin Room"
+      },
+      {
+        "room_id": "ac6",
+        "room_type": "Family Room"
+      }
+    ]
+  },
+  {
+    "city_id": 25,
+    "city_name": "Madrid",
+    "state_id": 25,
+    "state_name": "Madrid",
+    "country_id": 6,
+    "country_name": "Spain",
+    "hotel_name": "The Westin Palace Madrid",
+    "description": "The Westin Palace Madrid is a luxurious hotel located in the heart of Madrid. The hotel features elegant guest rooms and suites, each one decorated with classic furnishings and rich fabrics. Guests can enjoy a wide range of amenities including a fitness center, a spa, and an indoor swimming pool. The hotel also offers a variety of dining options, including a restaurant that serves traditional Spanish cuisine. The hotel's prime location makes it an ideal base for exploring the city's many attractions, including the Prado Museum, the Retiro Park, and the Royal Palace.",
+    "hotel_id": 30,
+    "hotel_rating": 5,
+    "price_per_night": 1500,
+    "image_url": "https://ibb.co/z5mBygN",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "ad1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ad2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ad3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 25,
+    "city_name": "Madrid",
+    "state_id": 25,
+    "state_name": "Madrid",
+    "country_id": 6,
+    "country_name": "Spain",
+    "hotel_name": "The Ritz Madrid",
+    "description": "The Ritz Madrid is a luxurious hotel located in the heart of Madrid, Spain. The hotel offers guests a grand and elegant experience, with opulent decor, high-end amenities, and exceptional service. Guests can enjoy a variety of on-site dining options, as well as a fitness center, spa, and indoor swimming pool. The hotel's central location makes it an ideal base for exploring the city's many attractions, including the Prado Museum and the Retiro Park. The Ritz Madrid is the epitome of luxury and elegance, offering guests a truly unforgettable stay.",
+    "hotel_id": 31,
+    "hotel_rating": 4.5,
+    "price_per_night": 1300,
+    "image_url": "https://ibb.co/pX2rTWk",
+    "category_id": 5,
+    "rooms": [
+      {
+        "room_id": "ae1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ae2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ae3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "ae4",
+        "room_type": "Family Room"
+      },
+      {
+        "room_id": "ae5",
+        "room_type": "Executive Room"
+      },
+      {
+        "room_id": "ae6",
+        "room_type": "Accessible Room"
+      }
+    ]
+  },
+  {
+    "city_id": 26,
+    "city_name": "Amsterdam",
+    "state_id": 26,
+    "state_name": "Amsterdam",
+    "country_id": 7,
+    "country_name": "Netherlands",
+    "hotel_name": "The InterContinental Amstel Amsterdam",
+    "description": "The InterContinental Amstel Amsterdam is a luxurious 5-star hotel located in the heart of Amsterdam. The hotel is housed in a 19th century building and features elegant decor and furnishings. Guests can enjoy stunning views of the Amstel River and Amsterdam's historic city center from the hotel's rooms and suites. The hotel also boasts a fitness center, a sauna, and a restaurant serving delicious international cuisine. Additionally, the hotel's location is perfect for exploring Amsterdam's famous museums and landmarks, as well as its vibrant nightlife.",
+    "hotel_id": 32,
+    "hotel_rating": 5,
+    "price_per_night": 1200,
+    "image_url": "https://ibb.co/0jzwFrC",
+    "category_id": 6,
+    "rooms": [
+      {
+        "room_id": "af1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "af2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "af3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+  {
+    "city_id": 26,
+    "city_name": "Amsterdam",
+    "state_id": 26,
+    "state_name": "Amsterdam",
+    "country_id": 7,
+    "country_name": "Netherlands",
+    "hotel_name": "The Hotel Okura Amsterdam",
+    "description": "The Hotel Okura Amsterdam is a luxurious 5-star hotel located in the heart of Amsterdam. The hotel boasts elegant guest rooms and suites, all of which feature modern amenities such as flat-screen TVs, Nespresso machines, and complimentary Wi-Fi. Guests can enjoy fine dining at the hotel's award-winning restaurant, or unwind at the spa and fitness center. The Hotel Okura Amsterdam is also conveniently located near many of Amsterdam's top attractions, such as the Van Gogh Museum and the Rijksmuseum. With its prime location, luxurious amenities, and impeccable service, The Hotel Okura Amsterdam is the perfect choice for a memorable stay in Amsterdam.",
+    "hotel_id": 33,
+    "hotel_rating": 4.5,
+    "price_per_night": 1000,
+    "image_url": "https://ibb.co/nk4PgYx",
+    "category_id": 4,
+    "rooms": [
+      {
+        "room_id": "ag1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ag2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ag3",
+        "room_type": "Suite"
+      },
+      {
+        "room_id": "ag4",
+        "room_type": "Single Room"
+      },
+      {
+        "room_id": "ag5",
+        "room_type": "Twin Room"
+      }
+    ]
+  },
+  {
+    "city_id": 27,
+    "city_name": "Brussels",
+    "state_id": 27,
+    "state_name": "Brussels",
+    "country_id": 8,
+    "country_name": "Belgium",
+    "hotel_name": "The Hotel Amigo",
+    "description": "The Hotel Amigo is a luxurious, 5-star hotel located in the heart of Brussels, Belgium. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Grand Place, the Royal Palace, and the famous Manneken Pis statue. Whether you're traveling for business or pleasure, the Hotel Amigo is the perfect choice for a memorable stay in Brussels.",
+    "hotel_id": 34,
+    "hotel_rating": 4.5,
+    "price_per_night": 900,
+    "image_url": "https://ibb.co/FBD8Yt6",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "a1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "a2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "a3",
+        "room_type": "Suite"
+      }
+    ]
+  }
+]

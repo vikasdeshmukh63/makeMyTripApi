@@ -1,0 +1,1434 @@
+[
+  {
+    "room_id": "a1",
+    "hotel_id": 1,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2800,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "a2",
+    "hotel_id": 1,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2900,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "a3",
+    "hotel_id": 1,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "a4",
+    "hotel_id": 1,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 2800,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "a5",
+    "hotel_id": 1,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 3200,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "a6",
+    "hotel_id": 1,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 3300,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "a7",
+    "hotel_id": 1,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 2900,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "a8",
+    "hotel_id": 1,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 3820,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "b1",
+    "hotel_id": 2,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 3600,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "b2",
+    "hotel_id": 2,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 4000,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "b3",
+    "hotel_id": 2,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 4500,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "b4",
+    "hotel_id": 2,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 3500,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "b5",
+    "hotel_id": 2,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2300,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "b6",
+    "hotel_id": 2,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 3000,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "c1",
+    "hotel_id": 3,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2200,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "c2",
+    "hotel_id": 3,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2300,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "c3",
+    "hotel_id": 3,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2500,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "d1",
+    "hotel_id": 4,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 4200,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "d2",
+    "hotel_id": 4,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 5000,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "d3",
+    "hotel_id": 4,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 5500,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "d4",
+    "hotel_id": 4,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 4250,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "e1",
+    "hotel_id": 5,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 3500,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "e2",
+    "hotel_id": 5,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 3800,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "e3",
+    "hotel_id": 5,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 4200,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "e4",
+    "hotel_id": 5,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 3900,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "e5",
+    "hotel_id": 5,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 3900,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "f1",
+    "hotel_id": 6,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2800,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "f2",
+    "hotel_id": 6,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2900,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "f3",
+    "hotel_id": 6,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "f4",
+    "hotel_id": 6,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 2800,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "f5",
+    "hotel_id": 6,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 3200,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "f6",
+    "hotel_id": 6,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 3300,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "g1",
+    "hotel_id": 7,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2590,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "g2",
+    "hotel_id": 7,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2600,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "g3",
+    "hotel_id": 7,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2850,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "g4",
+    "hotel_id": 7,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 2550,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "g5",
+    "hotel_id": 7,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2680,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "g6",
+    "hotel_id": 7,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 3560,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "g7",
+    "hotel_id": 7,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 4000,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "g8",
+    "hotel_id": 7,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 3950,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "h1",
+    "hotel_id": 8,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1770,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "h2",
+    "hotel_id": 8,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1990,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "h3",
+    "hotel_id": 8,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "h4",
+    "hotel_id": 8,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1750,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "h5",
+    "hotel_id": 8,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2100,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "h6",
+    "hotel_id": 8,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2500,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "h7",
+    "hotel_id": 8,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 3000,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "h8",
+    "hotel_id": 8,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2590,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "i1",
+    "hotel_id": 9,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1400,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "i2",
+    "hotel_id": 9,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1600,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "i3",
+    "hotel_id": 9,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1800,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "i4",
+    "hotel_id": 9,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2000,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "j1",
+    "hotel_id": 10,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1050,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "j2",
+    "hotel_id": 10,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1250,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "j3",
+    "hotel_id": 10,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1350,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "j4",
+    "hotel_id": 10,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "k1",
+    "hotel_id": 11,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2590,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "k2",
+    "hotel_id": 11,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2100,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "k3",
+    "hotel_id": 11,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2250,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "k4",
+    "hotel_id": 11,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2500,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "k5",
+    "hotel_id": 11,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 2600,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "k6",
+    "hotel_id": 11,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2650,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "l1",
+    "hotel_id": 12,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1900,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "l2",
+    "hotel_id": 12,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2500,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "l3",
+    "hotel_id": 12,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2650,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "l4",
+    "hotel_id": 12,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1800,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "l5",
+    "hotel_id": 12,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2600,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "m1",
+    "hotel_id": 13,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "m2",
+    "hotel_id": 13,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1750,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "m3",
+    "hotel_id": 13,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2230,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "n1",
+    "hotel_id": 14,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "n2",
+    "hotel_id": 14,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1700,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "n3",
+    "hotel_id": 14,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1860,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "n4",
+    "hotel_id": 14,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1400,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "n5",
+    "hotel_id": 14,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 1990,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "n6",
+    "hotel_id": 14,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 1880,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "o1",
+    "hotel_id": 15,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1200,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "o2",
+    "hotel_id": 15,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1775,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "o3",
+    "hotel_id": 15,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2000,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "o4",
+    "hotel_id": 15,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 2200,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "o5",
+    "hotel_id": 15,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2100,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "p1",
+    "hotel_id": 16,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1200,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "p2",
+    "hotel_id": 16,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1500,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "p3",
+    "hotel_id": 16,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1700,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "p4",
+    "hotel_id": 16,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1000,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "p5",
+    "hotel_id": 16,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1250,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "p6",
+    "hotel_id": 16,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 1500,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "q1",
+    "hotel_id": 17,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1000,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "q2",
+    "hotel_id": 17,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1100,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "q3",
+    "hotel_id": 17,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1200,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "q4",
+    "hotel_id": 17,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 900,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "q5",
+    "hotel_id": 17,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "r1",
+    "hotel_id": 18,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 900,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "r2",
+    "hotel_id": 18,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1000,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "r3",
+    "hotel_id": 18,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1200,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "r4",
+    "hotel_id": 18,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 800,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "r5",
+    "hotel_id": 18,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1325,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "r6",
+    "hotel_id": 18,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 1500,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "r7",
+    "hotel_id": 18,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 1590,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "r8",
+    "hotel_id": 18,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 1570,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "s1",
+    "hotel_id": 19,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 700,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "s2",
+    "hotel_id": 19,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1100,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "s3",
+    "hotel_id": 19,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1500,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "t1",
+    "hotel_id": 20,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 600,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "t2",
+    "hotel_id": 20,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 900,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "t3",
+    "hotel_id": 20,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 1225,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "t4",
+    "hotel_id": 20,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "t5",
+    "hotel_id": 20,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 1345,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "u1",
+    "hotel_id": 21,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1880,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "u2",
+    "hotel_id": 21,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1950,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "u3",
+    "hotel_id": 21,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2160,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "u4",
+    "hotel_id": 21,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1800,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "u5",
+    "hotel_id": 21,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2680,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "u6",
+    "hotel_id": 21,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2200,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "u7",
+    "hotel_id": 21,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 3000,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "u8",
+    "hotel_id": 21,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2900,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "v1",
+    "hotel_id": 22,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1950,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "v2",
+    "hotel_id": 22,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2500,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "v3",
+    "hotel_id": 22,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3200,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "w1",
+    "hotel_id": 23,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1775,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "w2",
+    "hotel_id": 23,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1880,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "w3",
+    "hotel_id": 23,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2260,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "w4",
+    "hotel_id": 23,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1650,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "w5",
+    "hotel_id": 23,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2350,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "w6",
+    "hotel_id": 23,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2260,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "x1",
+    "hotel_id": 24,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2230,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "x2",
+    "hotel_id": 24,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2350,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "x3",
+    "hotel_id": 24,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2500,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "x4",
+    "hotel_id": 24,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 2200,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "x5",
+    "hotel_id": 24,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2750,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "x6",
+    "hotel_id": 24,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 3000,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "x7",
+    "hotel_id": 24,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 3200,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "x8",
+    "hotel_id": 24,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 3260,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "y1",
+    "hotel_id": 25,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1900,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "y2",
+    "hotel_id": 25,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2650,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "y3",
+    "hotel_id": 25,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3250,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "z1",
+    "hotel_id": 26,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1880,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "z2",
+    "hotel_id": 26,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2000,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "z3",
+    "hotel_id": 26,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2200,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "z4",
+    "hotel_id": 26,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1800,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "z5",
+    "hotel_id": 26,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1950,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "z6",
+    "hotel_id": 26,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2000,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "aa1",
+    "hotel_id": 27,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1600,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "aa2",
+    "hotel_id": 27,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1800,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "aa3",
+    "hotel_id": 27,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ab1",
+    "hotel_id": 28,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ab2",
+    "hotel_id": 28,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1600,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ab3",
+    "hotel_id": 28,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1750,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ab4",
+    "hotel_id": 28,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1400,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ab5",
+    "hotel_id": 28,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2000,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ab6",
+    "hotel_id": 28,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 2100,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ab7",
+    "hotel_id": 28,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 2500,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "ab8",
+    "hotel_id": 28,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 2450,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "ac1",
+    "hotel_id": 29,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1250,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ac2",
+    "hotel_id": 29,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1500,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ac3",
+    "hotel_id": 29,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1890,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ac4",
+    "hotel_id": 29,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1200,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ac5",
+    "hotel_id": 29,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 1600,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ac6",
+    "hotel_id": 29,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 1800,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ad1",
+    "hotel_id": 30,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2800,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ad2",
+    "hotel_id": 30,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2900,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ad3",
+    "hotel_id": 30,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ae1",
+    "hotel_id": 31,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1300,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ae2",
+    "hotel_id": 31,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1400,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ae3",
+    "hotel_id": 31,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1600,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ae4",
+    "hotel_id": 31,
+    "room_type": "Family Room",
+    "no_of_beds": 6,
+    "price_per_night": 1450,
+    "description": "Our Family Room is perfect for families or groups of friends. It features two double beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ae5",
+    "hotel_id": 31,
+    "room_type": "Executive Room",
+    "no_of_beds": 2,
+    "price_per_night": 1550,
+    "description": "This Executive Room features luxury amenities and a spacious layout, including a separate seating area and a large work desk. Guests can enjoy complimentary access to the Executive Lounge, offering complimentary breakfast, refreshments and evening drinks."
+  },
+  {
+    "room_id": "ae6",
+    "hotel_id": 31,
+    "room_type": "Accessible Room",
+    "no_of_beds": 2,
+    "price_per_night": 1680,
+    "description": "Our Accessible Room has been designed to meet the needs of guests with disabilities and features wheelchair accessibility, roll-in shower, grab bars, and other accessibility features. This room also includes all of the standard amenities."
+  },
+  {
+    "room_id": "af1",
+    "hotel_id": 32,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1200,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "af2",
+    "hotel_id": 32,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1500,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "af3",
+    "hotel_id": 32,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ag1",
+    "hotel_id": 33,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1500,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ag2",
+    "hotel_id": 33,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 2000,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ag3",
+    "hotel_id": 33,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 3000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+  {
+    "room_id": "ag4",
+    "hotel_id": 33,
+    "room_type": "Single Room",
+    "no_of_beds": 1,
+    "price_per_night": 1000,
+    "description": "Our Single Room is perfect for solo travellers. It features a comfortable bed, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ag5",
+    "hotel_id": 33,
+    "room_type": "Twin Room",
+    "no_of_beds": 2,
+    "price_per_night": 2500,
+    "description": "Our Twin Room is designed for two people. It features two single beds, a flat-screen TV, and a private bathroom with complimentary toiletries."
+  },
+  {
+    "room_id": "ah1",
+    "hotel_id": 34,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 900,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ah2",
+    "hotel_id": 34,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1500,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ah3",
+    "hotel_id": 34,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2100,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  }
+]

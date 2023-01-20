@@ -1,0 +1,218 @@
+[
+  {
+    "city_id": 1,
+    "city_name": "Delhi",
+    "state_id": 1,
+    "state_name": "Delhi",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 2,
+    "city_name": "Mumbai",
+    "state_id": 2,
+    "state_name": "Maharashtra",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 3,
+    "city_name": "Kolkata",
+    "state_id": 3,
+    "state_name": "West Bengal",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 4,
+    "city_name": "Chennai",
+    "state_id": 4,
+    "state_name": "Tamil Nadu",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 5,
+    "city_name": "Hyderabad",
+    "state_id": 5,
+    "state_name": "Telangana",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 6,
+    "city_name": "Bangalore",
+    "state_id": 6,
+    "state_name": "Karnataka",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 7,
+    "city_name": "Ahmedabad",
+    "state_id": 7,
+    "state_name": "Gujarat",
+    "country_id": 1,
+    "country_name": "India"
+  },
+  {
+    "city_id": 8,
+    "city_name": "New York",
+    "state_id": 8,
+    "state_name": "New York",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 9,
+    "city_name": "Los Angeles",
+    "state_id": 9,
+    "state_name": "California",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 10,
+    "city_name": "Chicago",
+    "state_id": 10,
+    "state_name": "Illinois",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 11,
+    "city_name": "Houston",
+    "state_id": 11,
+    "state_name": "Texas",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 12,
+    "city_name": "Phoenix",
+    "state_id": 12,
+    "state_name": "Arizona",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 13,
+    "city_name": "Philadelphia",
+    "state_id": 13,
+    "state_name": "Pennsylvania",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 14,
+    "city_name": "San Antonio",
+    "state_id": 14,
+    "state_name": "Texas",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 15,
+    "city_name": "San Diego",
+    "state_id": 15,
+    "state_name": "California",
+    "country_id": 2,
+    "country_name": "United States"
+  },
+  {
+    "city_id": 16,
+    "city_name": "London",
+    "state_id": 16,
+    "state_name": "London",
+    "country_id": 3,
+    "country_name": "United Kingdom"
+  },
+  {
+    "city_id": 17,
+    "city_name": "Manchester",
+    "state_id": 17,
+    "state_name": "Manchester",
+    "country_id": 3,
+    "country_name": "United Kingdom"
+  },
+  {
+    "city_id": 18,
+    "city_name": "Liverpool",
+    "state_id": 18,
+    "state_name": "Liverpool",
+    "country_id": 3,
+    "country_name": "United Kingdom"
+  },
+  {
+    "city_id": 19,
+    "city_name": "Birmingham",
+    "state_id": 19,
+    "state_name": "Birmingham",
+    "country_id": 3,
+    "country_name": "United Kingdom"
+  },
+  {
+    "city_id": 20,
+    "city_name": "Paris",
+    "state_id": 20,
+    "state_name": "Paris",
+    "country_id": 4,
+    "country_name": "France"
+  },
+  {
+    "city_id": 21,
+    "city_name": "Rome",
+    "state_id": 21,
+    "state_name": "Rome",
+    "country_id": 5,
+    "country_name": "Italy"
+  },
+  {
+    "city_id": 22,
+    "city_name": "Venice",
+    "state_id": 22,
+    "state_name": "Venice",
+    "country_id": 5,
+    "country_name": "Italy"
+  },
+  {
+    "city_id": 23,
+    "city_name": "Florence",
+    "state_id": 23,
+    "state_name": "Florence",
+    "country_id": 5,
+    "country_name": "Italy"
+  },
+  {
+    "city_id": 24,
+    "city_name": "Barcelona",
+    "state_id": 24,
+    "state_name": "Barcelona",
+    "country_id": 6,
+    "country_name": "Spain"
+  },
+  {
+    "city_id": 25,
+    "city_name": "Madrid",
+    "state_id": 25,
+    "state_name": "Madrid",
+    "country_id": 6,
+    "country_name": "Spain"
+  },
+  {
+    "city_id": 26,
+    "city_name": "Amsterdam",
+    "state_id": 26,
+    "state_name": "Amsterdam",
+    "country_id": 7,
+    "country_name": "Netherlands"
+  },
+  {
+    "city_id": 27,
+    "city_name": "Brussels",
+    "state_id": 27,
+    "state_name": "Brussels",
+    "country_id": 8,
+    "country_name": "Belgium"
+  }
+]
