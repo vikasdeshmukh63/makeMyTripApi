@@ -1293,7 +1293,6 @@
       }
     ]
   },
-
   {
     "city_id": 4,
     "city_name": "Chennai",
@@ -1323,7 +1322,6 @@
       }
     ]
   },
-
   {
     "city_id": 5,
     "city_name": "Hyderabad",
@@ -1353,7 +1351,6 @@
       }
     ]
   },
-
   {
     "city_id": 6,
     "city_name": "Bangalore",
@@ -1383,7 +1380,6 @@
       }
     ]
   },
-
   {
     "city_id": 7,
     "city_name": "Ahmedabad",
