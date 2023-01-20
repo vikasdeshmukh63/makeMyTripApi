@@ -196,6 +196,31 @@ app.get("/filter/category/:category_id", (req, res) => {
 });
 
 
+// to get all the catrgories
+app.get("/category", (req, res) => {
+    let category_id = Number(req.query.category_id);
+
+    if(category_id){
+        db.collection("category").find({ category_id: category_id }).toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    }else{
+        db.collection("category").find().toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    }
+
+});
+
+
 // to get hotels based on price criteria
 app.get("/filter/price", (req, res) => {
     let sort = req.query.sort;

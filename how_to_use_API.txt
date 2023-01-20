@@ -50,7 +50,15 @@
     6-Gastro hotels,
     7-Heritage hotels
 
-(8) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT 
+(8) TO GET HOTEL CATEGORIES
+
+    i. to get all the categories available
+       http://localhost:5000/category
+
+   ii. to get specific category according to category id
+       http://localhost:5000/category?category_id={value}
+
+(9) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT 
     http://localhost:5000/filter/price?query={parameter}
    
    i. for getting hotels price low to high
@@ -65,7 +73,7 @@
       sort value should be 1 for getting list in ascending order 
       sort value should be -1 for getting list in descending order 
 
-(9) TO GET BOOKING DATA 
+(10) TO GET BOOKING DATA 
 
    i. get all the booking data
       http://localhost:5000/bookings
@@ -73,21 +81,21 @@
   ii. to get booking data of certain email
       http://localhost:5000/bookings?email={email}
 
-(10) FOR DOING BOOKING
+(11) FOR DOING BOOKING
      http://localhost:5000/createbooking
 
      pass the booking data in body
 
-(11) FOR UPDATING THE BOOKING
+(12) FOR UPDATING THE BOOKING
      http://localhost:5000/updatebooking/:id
      
      pass the id of the data which we want to update
      pass the data which we want to update in body
 
-(12) FOR DELETING THE BOOKING DATA
+(13) FOR DELETING THE BOOKING DATA
      http://localhost:5000/deletebooking/:id
 
      pass the id of the data which we want to delete
 
-(13) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS 
+(14) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS 
      http://localhost:5000/roomdata
