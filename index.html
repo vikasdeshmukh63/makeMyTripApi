@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Make My Trip Hotel API</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN"
+        crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <h1 class="text-center mt-2 text-info-emphasis">Documentation</h1>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(1) FOR GETTING ALL CITIES OFFER BY API</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/cities</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(2) FOR GETTING ALL HOTELS OFFER BY API</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/hotels</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(3) FOR GETTING HOTELS WITH RESPECT TO STATE ID</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/hotels/state_id/:id</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(4) FOR GETTING HOTELS WITH RESPECT TO HOTEL ID</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000//hotels/hotel_id/:id</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(5) FOR FILTERING HOTEL LIST BASED ON THE AMENITIES AVAILABLE</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/amenities?query={value}</p>
+            </div>
+            <span class="text-start">
+            <div class="mb-2">queries available are listed below-</div>
+            <div>wifi,</div>
+            <div>free_cancellation,</div>
+            <div>free_breakfast,</div>
+            <div>spa,</div>
+            <div>swimming_pool,</div>
+            </span>
+            <span class="text-start">
+            <div class="mb-2">values available are listed below -</div>
+            <div>for True = 1,</div>
+            <div>for False = 0</div>
+            </span>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(6) FOR FILTERING HOTEL LIST BASED ON THE HOTEL RULES</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/hotelrules?query={value}</p>
+            </div>
+            <span class="text-start">
+                <div class="mb-2">queries available are listed below-</div>
+                <div>pets_allowed,</div>
+                <div>bachelors_allowed,</div>
+                <div>smoking_allowed,</div>
+                <div>alcohol_allowed,</div>
+                <div>allows_unmarried_couples</div>
+            </span>
+            <span class="text-start">
+                <div class="mb-2">values available are listed below -</div>
+                <div>for True = 1,</div>
+                <div>for False = 0</div>
+            </span>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(7) TO GET HOTELS BASED ON THEIR CATEGORY ID'S</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/category/:category_id</p>
+            </div>
+            <span class="text-start">
+                <div class="mb-2">there are total seven categories-</div>
+                <div>1-Eco hotels,</div>
+                <div>2-Convention center hotels,</div>
+                <div>3-All-suites,</div>
+                <div>4-Resorts,</div>
+                <div>5-Motels,</div>
+                <div>6-Gastro hotels,</div>
+                <div>7-Heritage hotels</div>
+            </span>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(8) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/price?query={parameter}</p>
+            </div>
+
+            <div class="mt-3">i. for getting hotels price low to high</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/price?sort=low-high</p>
+            </div>
+
+            <div class="mt-3">ii. for getting hotels price high to low</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/price?sort=high-low</p>
+            </div>
+
+            <div class="mt-3"> iii. for getting hotels price in between certain range</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/price?min={value}&max={value}&sort={value}</p>
+            </div>
+            <div class="text-start">sort value should be 1 for getting list in ascending order</div>
+            <div class="text-start">sort value should be -1 for getting list in descending order 
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(9) TO GET BOOKING DATA</h6>
+            <div class="mt-3">i. get all the booking data</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/bookings</p>
+            </div>
+
+            <div class="mt-3">ii. to get booking data of certain email</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/bookings?email={email}</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(10) FOR DOING BOOKING</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/createbooking</p>
+            </div>
+            <div class="text-start">pass the booking data in body</div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(11) FOR UPDATING THE BOOKING</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/updatebooking/:id</p>
+            </div>
+            <div class="text-start">pass the id of the data which we want to update</div>
+            <div class="text-start">pass the data which we want to update in body</div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(12) FOR DELETING THE BOOKING DATA</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/deletebooking/:id</p>
+            </div>
+            <div class="text-start">pass the id of the data which we want to delete</div>
+        </div>
+
+        <div class="container mb-3">
+            <h6 class="text-start mt-5">(13) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS </h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/roomdata</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

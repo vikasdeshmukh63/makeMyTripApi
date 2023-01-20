@@ -1,0 +1,93 @@
+(1) FOR GETTING ALL CITIES OFFER BY API
+    http://localhost:5000/cities
+
+(2) FOR GETTING ALL HOTELS OFFER BY API
+    http://localhost:5000/hotels
+
+(3) FOR GETTING HOTELS WITH RESPECT TO STATE ID
+    http://localhost:5000/hotels/state_id/:id
+
+(4) FOR GETTING HOTELS WITH RESPECT TO HOTEL ID
+    http://localhost:5000//hotels/hotel_id/:id
+
+(5) FOR FILTERING HOTEL LIST BASED ON THE AMENITIES AVAILABLE
+    http://localhost:5000/filter/amenities?query={value}
+ 
+    queries available are listed below
+    wifi,
+    free_cancellation,
+    free_breakfast,
+    spa,
+    swimming_pool,
+
+    values available are listed below 
+    for True = 1, 
+    for False = 0
+
+(6) FOR FILTERING HOTEL LIST BASED ON THE HOTEL RULES
+    http://localhost:5000/filter/hotelrules?query={value}
+
+    queries available are listed below
+    pets_allowed,
+    bachelors_allowed,
+    smoking_allowed,
+    alcohol_allowed,
+    allows_unmarried_couples
+
+    values available are listed below 
+    for True = 1, 
+    for False = 0
+
+(7) TO GET HOTELS BASED ON THEIR CATEGORY ID'S 
+    http://localhost:5000/filter/category/:category_id
+
+    there are total seven categories
+    1-Eco hotels,
+    2-Convention center hotels,
+    3-All-suites,
+    4-Resorts,
+    5-Motels,
+    6-Gastro hotels,
+    7-Heritage hotels
+
+(8) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT 
+    http://localhost:5000/filter/price?query={parameter}
+   
+   i. for getting hotels price low to high
+      http://localhost:5000/filter/price?sort=low-high
+
+  ii. for getting hotels price high to low
+      http://localhost:5000/filter/price?sort=high-low
+
+ iii. for getting hotels price in between certain range
+      http://localhost:5000/filter/price?min={value}&max={value}&sort={value}
+
+      sort value should be 1 for getting list in ascending order 
+      sort value should be -1 for getting list in descending order 
+
+(9) TO GET BOOKING DATA 
+
+   i. get all the booking data
+      http://localhost:5000/bookings
+
+  ii. to get booking data of certain email
+      http://localhost:5000/bookings?email={email}
+
+(10) FOR DOING BOOKING
+     http://localhost:5000/createbooking
+
+     pass the booking data in body
+
+(11) FOR UPDATING THE BOOKING
+     http://localhost:5000/updatebooking/:id
+     
+     pass the id of the data which we want to update
+     pass the data which we want to update in body
+
+(12) FOR DELETING THE BOOKING DATA
+     http://localhost:5000/deletebooking/:id
+
+     pass the id of the data which we want to delete
+
+(13) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS 
+     http://localhost:5000/roomdata

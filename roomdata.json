@@ -1430,5 +1430,105 @@
     "no_of_beds": 6,
     "price_per_night": 2100,
     "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+
+  {
+    "room_id": "ai1",
+    "hotel_id": 35,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1600,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ai2",
+    "hotel_id": 35,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1800,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ai3",
+    "hotel_id": 35,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 2100,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+
+  {
+    "room_id": "aj1",
+    "hotel_id": 36,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 2500,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "aj2",
+    "hotel_id": 36,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 3000,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "aj3",
+    "hotel_id": 36,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 4000,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+
+  {
+    "room_id": "ak1",
+    "hotel_id": 37,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 1200,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "ak2",
+    "hotel_id": 37,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1600,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "ak3",
+    "hotel_id": 37,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1800,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
+  },
+
+  {
+    "room_id": "al1",
+    "hotel_id": 38,
+    "room_type": "Standard",
+    "no_of_beds": 2,
+    "price_per_night": 900,
+    "description": "Our standard room is designed for a comfortable stay for two people. It comes with basic amenities such as a comfortable bed, a flat-screen TV, and a private bathroom."
+  },
+  {
+    "room_id": "al2",
+    "hotel_id": 38,
+    "room_type": "Deluxe",
+    "no_of_beds": 4,
+    "price_per_night": 1200,
+    "description": "The Deluxe room offers a more spacious and luxurious stay for families or groups of friends. It features a king-size bed, a seating area, and a private balcony with views of the city."
+  },
+  {
+    "room_id": "al3",
+    "hotel_id": 38,
+    "room_type": "Suite",
+    "no_of_beds": 6,
+    "price_per_night": 1500,
+    "description": "Our Suite room offers the ultimate luxury experience for guests. It features a separate living room, a king-size bed, a Jacuzzi, and a private balcony with panoramic views."
   }
 ]

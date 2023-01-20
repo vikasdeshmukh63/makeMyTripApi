@@ -1292,5 +1292,125 @@
         "room_type": "Suite"
       }
     ]
+  },
+
+  {
+    "city_id": 4,
+    "city_name": "Chennai",
+    "state_id": 4,
+    "state_name": "Tamil Nadu",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Park Chennai",
+    "description": "The Park Chennai is a luxurious, 5-star hotel located in the heart of Chennai, India. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Kapaleeswarar Temple, Fort St. George, and the famous Marina Beach. Whether you're traveling for business or pleasure, The Park Chennai is the perfect choice for a memorable stay in Chennai.",
+    "hotel_id": 35,
+    "hotel_rating": 4.5,
+    "price_per_night": 1600,
+    "image_url": "https://ibb.co/FBD8Yt6",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "ai1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ai2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ai3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 5,
+    "city_name": "Hyderabad",
+    "state_id": 5,
+    "state_name": "Telangana",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Park Hyatt Hyderabad",
+    "description": "The Park Hyatt Hyderabad is a luxurious, 5-star hotel located in the heart of Hyderabad, India. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Charminar, the Salar Jung Museum, and the famous Hussain Sagar lake. Whether you're traveling for business or pleasure, The Park Hyatt Hyderabad is the perfect choice for a memorable stay in Hyderabad.",
+    "hotel_id": 36,
+    "hotel_rating": 4.5,
+    "price_per_night": 2500,
+    "image_url": "https://ibb.co/FBD8Yt6",
+    "category_id": 4,
+    "rooms": [
+      {
+        "room_id": "aj1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "aj2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "aj3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 6,
+    "city_name": "Bangalore",
+    "state_id": 6,
+    "state_name": "Karnataka",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Leela Palace Bangalore",
+    "description": "The Leela Palace Bangalore is a luxurious, 5-star hotel located in the heart of Bangalore, India. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the ISKCON Temple, the Lalbagh Botanical Garden, and the famous Tipu Sultan's Summer Palace. Whether you're traveling for business or pleasure, The Leela Palace Bangalore is the perfect choice for a memorable stay in Bangalore.",
+    "hotel_id": 37,
+    "hotel_rating": 4.5,
+    "price_per_night": 1200,
+    "image_url": "https://ibb.co/FBD8Yt6",
+    "category_id": 2,
+    "rooms": [
+      {
+        "room_id": "ak1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ak2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ak3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 7,
+    "city_name": "Ahmedabad",
+    "state_id": 7,
+    "state_name": "Gujarat",
+    "country_id": 1,
+    "country_name": "India",
+    "hotel_name": "The Grand Bhagwati",
+    "description": "The Grand Bhagwati is a luxurious, 5-star hotel located in the heart of Ahmedabad, Gujarat. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Sabarmati Ashram, the Jama Masjid, and the Calico Museum of Textiles. Whether you're traveling for business or pleasure, The Grand Bhagwati is the perfect choice for a memorable stay in Ahmedabad.",
+    "hotel_id": 38,
+    "hotel_rating": 4.5,
+    "price_per_night": 900,
+    "image_url": "https://ibb.co/FBD8Yt6",
+    "category_id": 2,
+    "rooms": [
+      {
+        "room_id": "al1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "al2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "al3",
+        "room_type": "Suite"
+      }
+    ]
   }
 ]

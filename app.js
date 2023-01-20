@@ -11,8 +11,9 @@ let db;
 app.use(cors());
 app.use(express.json());
 
-app.get("/", (req, res) => {
-    res.send("welcome to home");
+// documentation
+app.get("/",(req,res)=>{
+    res.sendFile(__dirname + "/index.html");
 });
 
 // to get all cities
@@ -124,6 +125,63 @@ app.get("/filter/amenities", (req, res) => {
 });
 
 
+// to get all hotels based on condition(hotel aminities)
+app.get("/filter/hotelrules", (req, res) => {
+    let hotelrules = req.query;
+
+    if (hotelrules.pets_allowed) {
+        db.collection("hotelrules").find({ pets_allowed: req.query.pets_allowed }).toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    }
+    else if (hotelrules.bachelors_allowed) {
+        db.collection("hotelrules").find({ bachelors_allowed: req.query.bachelors_allowed }).toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    } else if (hotelrules.smoking_allowed) {
+        db.collection("hotelrules").find({ smoking_allowed: req.query.smoking_allowed }).toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    } else if (hotelrules.alcohol_allowed) {
+        db.collection("hotelrules").find({ alcohol_allowed: req.query.alcohol_allowed }).toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    } else if (hotelrules.allows_unmarried_couples) {
+        db.collection("hotelrules").find({ allows_unmarried_couples: req.query.allows_unmarried_couples }).toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    } else {
+        db.collection("hotelrules").find().toArray((err, data) => {
+            if (err) {
+                throw err
+            } else {
+                res.send(data);
+            }
+        });
+    }
+});
+
+
 // to get all hotels based on condition(hotel category)
 app.get("/filter/category/:category_id", (req, res) => {
     let category_id = Number(req.params.category_id);
@@ -161,7 +219,7 @@ app.get("/filter/price", (req, res) => {
             }
         });
     } else if (min && max) {
-        db.collection("hotels").find({ price_per_night: { $gte: min, $lte: max } }).toArray((err, data) => {
+        db.collection("hotels").find({ price_per_night: { $gte: min, $lte: max } }).sort({ price_per_night: sort }).toArray((err, data) => {
             if (err) {
                 throw err;
             } else {

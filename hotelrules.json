@@ -270,5 +270,37 @@
     "smoking_allowed": "0",
     "alcohol_allowed": "0",
     "allows_unmarried_couples": "0"
+  },
+  {
+    "hotel_id": 35,
+    "pets_allowed": "1",
+    "bachelors_allowed": "0",
+    "smoking_allowed": "0",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "0"
+  },
+  {
+    "hotel_id": 36,
+    "pets_allowed": "0",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "0",
+    "alcohol_allowed": "1",
+    "allows_unmarried_couples": "1"
+  },
+  {
+    "hotel_id": 37,
+    "pets_allowed": "1",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "0",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "1"
+  },
+  {
+    "hotel_id": 38,
+    "pets_allowed": "1",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "1",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "1"
   }
 ]
