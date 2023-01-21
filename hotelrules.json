@@ -302,5 +302,53 @@
     "smoking_allowed": "1",
     "alcohol_allowed": "0",
     "allows_unmarried_couples": "1"
+  },
+  {
+    "hotel_id": 39,
+    "pets_allowed": "0",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "0",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "1"
+  },
+  {
+    "hotel_id": 40,
+    "pets_allowed": "0",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "1",
+    "alcohol_allowed": "1",
+    "allows_unmarried_couples": "1"
+  },
+  {
+    "hotel_id": 41,
+    "pets_allowed": "0",
+    "bachelors_allowed": "0",
+    "smoking_allowed": "0",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "0"
+  },
+  {
+    "hotel_id": 42,
+    "pets_allowed": "0",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "1",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "0"
+  },
+  {
+    "hotel_id": 43,
+    "pets_allowed": "0",
+    "bachelors_allowed": "1",
+    "smoking_allowed": "0",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "1"
+  },
+  {
+    "hotel_id": 44,
+    "pets_allowed": "0",
+    "bachelors_allowed": "0",
+    "smoking_allowed": "1",
+    "alcohol_allowed": "0",
+    "allows_unmarried_couples": "0"
   }
 ]

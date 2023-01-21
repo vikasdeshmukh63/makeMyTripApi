@@ -1305,7 +1305,7 @@
     "hotel_id": 35,
     "hotel_rating": 4.5,
     "price_per_night": 1600,
-    "image_url": "https://ibb.co/FBD8Yt6",
+    "image_url": "https://ibb.co/TcRLwDD",
     "category_id": 3,
     "rooms": [
       {
@@ -1334,7 +1334,7 @@
     "hotel_id": 36,
     "hotel_rating": 4.5,
     "price_per_night": 2500,
-    "image_url": "https://ibb.co/FBD8Yt6",
+    "image_url": "https://ibb.co/4JfM538",
     "category_id": 4,
     "rooms": [
       {
@@ -1363,7 +1363,7 @@
     "hotel_id": 37,
     "hotel_rating": 4.5,
     "price_per_night": 1200,
-    "image_url": "https://ibb.co/FBD8Yt6",
+    "image_url": "https://ibb.co/yNqQhbJ",
     "category_id": 2,
     "rooms": [
       {
@@ -1392,7 +1392,7 @@
     "hotel_id": 38,
     "hotel_rating": 4.5,
     "price_per_night": 900,
-    "image_url": "https://ibb.co/FBD8Yt6",
+    "image_url": "https://ibb.co/cxqJrcz",
     "category_id": 2,
     "rooms": [
       {
@@ -1405,6 +1405,186 @@
       },
       {
         "room_id": "al3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 10,
+    "city_name": "Chicago",
+    "state_id": 10,
+    "state_name": "Illinois",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Palmer House Hilton",
+    "description": "The Palmer House Hilton is a luxurious, 4-star hotel located in the heart of Chicago, Illinois. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including Millennium Park, Willis Tower, and the Art Institute of Chicago. Whether you're traveling for business or pleasure, the Palmer House Hilton is the perfect choice for a memorable stay in Chicago.",
+    "hotel_id": 39,
+    "hotel_rating": 4,
+    "price_per_night": 2500,
+    "image_url": "https://ibb.co/TtNMpf9",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "am1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "am2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "am3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 11,
+    "city_name": "Houston",
+    "state_id": 11,
+    "state_name": "Texas",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Houstonian Hotel",
+    "description": "The Houstonian Hotel is a luxurious, 5-star hotel located in the heart of Houston, Texas. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Space Center Houston, the Museum of Fine Arts, and the Buffalo Bayou Park. Whether you're traveling for business or pleasure, the Houstonian Hotel is the perfect choice for a memorable stay in Houston.",
+    "hotel_id": 40,
+    "hotel_rating": 4.5,
+    "price_per_night": 1000,
+    "image_url": "https://ibb.co/M9jhKdK",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "an1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "an2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "an3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 12,
+    "city_name": "Phoenix",
+    "state_id": 12,
+    "state_name": "Arizona",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Arizona Grand Resort",
+    "description": "The Arizona Grand Resort is a luxurious, 5-star hotel located in Phoenix, Arizona. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Desert Botanical Garden, the Phoenix Art Museum, and the famous Camelback Mountain. Whether you're traveling for business or pleasure, the Arizona Grand Resort is the perfect choice for a memorable stay in Phoenix.",
+    "hotel_id": 41,
+    "hotel_rating": 4.5,
+    "price_per_night": 800,
+    "image_url": "https://ibb.co/PzwPY2y",
+    "category_id": 4,
+    "rooms": [
+      {
+        "room_id": "ao1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ao2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ao3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 13,
+    "city_name": "Philadelphia",
+    "state_id": 13,
+    "state_name": "Pennsylvania",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Ritz Carlton Philadelphia",
+    "description": "The Ritz Carlton Philadelphia is a luxurious, 5-star hotel located in the heart of Philadelphia, Pennsylvania. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Liberty Bell, Independence Hall, and the famous Reading Terminal Market. Whether you're traveling for business or pleasure, The Ritz Carlton Philadelphia is the perfect choice for a memorable stay in Philadelphia.",
+    "hotel_id": 42,
+    "hotel_rating": 4.5,
+    "price_per_night": 600,
+    "image_url": "https://ibb.co/D57YVd8",
+    "category_id": 1,
+    "rooms": [
+      {
+        "room_id": "ap1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ap2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ap3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 14,
+    "city_name": "San Antonio",
+    "state_id": 14,
+    "state_name": "Texas",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Grand Hyatt San Antonio",
+    "description": "The Grand Hyatt San Antonio is a luxurious, 5-star hotel located in the heart of San Antonio, Texas. The hotel offers elegant guest rooms and suites, as well as a variety of on-site dining options, a fitness center, and a full-service spa. Guests can also enjoy easy access to many of the city's top attractions, including the Riverwalk, the Alamo, and the Tower of the Americas. Whether you're traveling for business or pleasure, the Grand Hyatt San Antonio is the perfect choice for a memorable stay in San Antonio.",
+    "hotel_id": 43,
+    "hotel_rating": 4.5,
+    "price_per_night": 600,
+    "image_url": "https://ibb.co/74XRrpS",
+    "category_id": 7,
+    "rooms": [
+      {
+        "room_id": "aq1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "aq2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "aq3",
+        "room_type": "Suite"
+      }
+    ]
+  },
+
+  {
+    "city_id": 15,
+    "city_name": "San Diego",
+    "state_id": 15,
+    "state_name": "California",
+    "country_id": 2,
+    "country_name": "United States",
+    "hotel_name": "The Hotel Indigo San Diego",
+    "description": "The Hotel Indigo San Diego is a stylish, 4-star hotel located in the heart of San Diego, California. The hotel offers modern guest rooms and suites, as well as a rooftop pool and fitness center. Guests can also enjoy easy access to many of the city's top attractions, including the San Diego Zoo, Balboa Park, and the USS Midway Museum. Whether you're traveling for business or pleasure, the Hotel Indigo San Diego is the perfect choice for a memorable stay in San Diego.",
+    "hotel_id": 44,
+    "hotel_rating": 4,
+    "price_per_night": 2500,
+    "image_url": "https://ibb.co/QbxsJ5x",
+    "category_id": 3,
+    "rooms": [
+      {
+        "room_id": "ar1",
+        "room_type": "Standard"
+      },
+      {
+        "room_id": "ar2",
+        "room_type": "Deluxe"
+      },
+      {
+        "room_id": "ar3",
         "room_type": "Suite"
       }
     ]

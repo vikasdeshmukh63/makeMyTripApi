@@ -302,5 +302,53 @@
     "wifi": "1",
     "spa": "1",
     "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 39,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "0",
+    "spa": "0",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 40,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "1",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 41,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "0",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 42,
+    "free_cancellation": "1",
+    "free_breakfast": "0",
+    "wifi": "1",
+    "spa": "0",
+    "swimming_pool": "1"
+  },
+  {
+    "hotel_id": 43,
+    "free_cancellation": "0",
+    "free_breakfast": "1",
+    "wifi": "0",
+    "spa": "1",
+    "swimming_pool": "0"
+  },
+  {
+    "hotel_id": 44,
+    "free_cancellation": "0",
+    "free_breakfast": "0",
+    "wifi": "0",
+    "spa": "0",
+    "swimming_pool": "0"
   }
 ]
