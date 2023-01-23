@@ -39,14 +39,21 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(4) FOR GETTING HOTELS WITH RESPECT TO HOTEL ID (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(4) FOR GETTING HOTELS WITH RESPECT TO COUNTRY ID (GET REQUEST)</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/hotels/country_id/:id</p>
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(5) FOR GETTING HOTELS WITH RESPECT TO HOTEL ID (GET REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000//hotels/hotel_id/:id</p>
             </div>
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(5) FOR FILTERING HOTEL LIST BASED ON THE AMENITIES AVAILABLE (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(6) FOR FILTERING HOTEL LIST BASED ON THE AMENITIES AVAILABLE (GET REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/filter/amenities?query={value}</p>
             </div>
@@ -66,7 +73,7 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(6) FOR FILTERING HOTEL LIST BASED ON THE HOTEL RULES (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(7) FOR FILTERING HOTEL LIST BASED ON THE HOTEL RULES (GET REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/filter/hotelrules?query={value}</p>
             </div>
@@ -86,7 +93,7 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(7) TO GET HOTELS BASED ON THEIR CATEGORY ID'S (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(8) TO GET HOTELS BASED ON THEIR CATEGORY ID'S (GET REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/filter/category/:category_id</p>
             </div>
@@ -103,7 +110,7 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(8) TO GET HOTEL CATEGORIES (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(9) TO GET HOTEL CATEGORIES (GET REQUEST)</h6>
             <div class="mt-3">i. to get all the categories available</div>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/category</p>
@@ -116,7 +123,7 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(9) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(10) TO GET HOTEL FILTERED BY MINIMUM PRICE PER NIGHT (GET REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/filter/price?query={parameter}</p>
             </div>
@@ -142,7 +149,33 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(10) TO GET BOOKING DATA (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(11) TO GET HOTEL FILTERED BY THERE RATINGS (GET REQUEST)</h6>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/rating?query={parameter}</p>
+            </div>
+
+            <div class="mt-3">i. for getting hotels price low to high</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/rating?sort=low-high</p>
+            </div>
+
+            <div class="mt-3">ii. for getting hotels price high to low</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">http://localhost:5000/filter/rating?sort=high-low</p>
+            </div>
+
+            <div class="mt-3"> iii. for getting hotels price in between certain range</div>
+            <div class="container rounded bg-secondary p-1">
+                <p class="text-white text-center mt-3">
+                    http://localhost:5000/filter/rating?min={value}&max={value}&sort={value}</p>
+            </div>
+            <div class="text-start">sort value should be 1 for getting list in ascending order</div>
+            <div class="text-start">sort value should be -1 for getting list in descending order
+            </div>
+        </div>
+
+        <div class="container">
+            <h6 class="text-start mt-5">(12) TO GET BOOKING DATA (GET REQUEST)</h6>
             <div class="mt-3">i. get all the booking data</div>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/bookings</p>
@@ -155,7 +188,7 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(11) FOR DOING BOOKING (POST REQUEST)</h6>
+            <h6 class="text-start mt-5">(13) FOR DOING BOOKING (POST REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/createbooking</p>
             </div>
@@ -163,27 +196,30 @@
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(12) FOR UPDATING THE BOOKING (PUT REQUEST)</h6>
+            <h6 class="text-start mt-5">(14) FOR UPDATING THE BOOKING (PUT REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/updatebooking/:id</p>
             </div>
             <div class="text-start">pass the id of the data which we want to update</div>
             <div class="text-start">pass the data which we want to update in body</div>
+            <div class="text-start">you can update status, bank_name, date</div>
         </div>
 
         <div class="container">
-            <h6 class="text-start mt-5">(13) FOR DELETING THE BOOKING DATA (DELETE REQUEST)</h6>
+            <h6 class="text-start mt-5">(15) FOR DELETING THE BOOKING DATA (DELETE REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/deletebooking/:id</p>
             </div>
-            <div class="text-start">pass the id of the data which we want to delete</div>
+            <div class="text-start">pass the object id(_id) of the data which we want to delete</div>
         </div>
 
         <div class="container mb-3">
-            <h6 class="text-start mt-5">(14) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS (GET REQUEST)</h6>
+            <h6 class="text-start mt-5">(16) FOR GETTING VARIOUS ROOMS OFFER BY HOTELS (POST REQUEST)</h6>
             <div class="container rounded bg-secondary p-1">
                 <p class="text-white text-center mt-3">http://localhost:5000/roomdata</p>
             </div>
+            <div class="text-start">pass the id in body in the form of array </div>
+            <div class="text-start">example: {"id":["a1","h3"]}</div>
         </div>
     </div>
 </body>

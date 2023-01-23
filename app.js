@@ -12,7 +12,7 @@ app.use(cors());
 app.use(express.json());
 
 // documentation
-app.get("/",(req,res)=>{
+app.get("/", (req, res) => {
     res.sendFile(__dirname + "/index.html");
 });
 
@@ -53,6 +53,18 @@ app.get("/hotels/state_id/:id", (req, res) => {
     });
 });
 
+// to get hotels based on country id
+app.get("/hotels/country_id/:id", (req, res) => {
+    let country_id = Number(req.params.id);
+
+    db.collection("hotels").find({ country_id: country_id }).toArray((err, data) => {
+        if (err) {
+            throw err
+        } else {
+            res.send(data);
+        }
+    });
+});
 
 // to get all hotels based on condition(hotel id)
 app.get("/hotels/hotel_id/:id", (req, res) => {
@@ -200,7 +212,7 @@ app.get("/filter/category/:category_id", (req, res) => {
 app.get("/category", (req, res) => {
     let category_id = Number(req.query.category_id);
 
-    if(category_id){
+    if (category_id) {
         db.collection("category").find({ category_id: category_id }).toArray((err, data) => {
             if (err) {
                 throw err
@@ -208,7 +220,7 @@ app.get("/category", (req, res) => {
                 res.send(data);
             }
         });
-    }else{
+    } else {
         db.collection("category").find().toArray((err, data) => {
             if (err) {
                 throw err
@@ -245,6 +257,47 @@ app.get("/filter/price", (req, res) => {
         });
     } else if (min && max) {
         db.collection("hotels").find({ price_per_night: { $gte: min, $lte: max } }).sort({ price_per_night: sort }).toArray((err, data) => {
+            if (err) {
+                throw err;
+            } else {
+                res.send(data);
+            }
+        });
+    } else {
+        db.collection("hotels").find().toArray((err, data) => {
+            if (err) {
+                throw err;
+            } else {
+                res.send(data);
+            }
+        });
+    }
+});
+
+// to get hotels based on their customer rating
+app.get("/filter/rating", (req, res) => {
+    let sort = req.query.sort;
+    let min = Number(req.query.min);
+    let max = Number(req.query.max);
+
+    if (sort === "low-high") {
+        db.collection("hotels").find().sort({ hotel_rating: 1 }).toArray((err, data) => {
+            if (err) {
+                throw err;
+            } else {
+                res.send(data);
+            }
+        });
+    } else if (sort === "high-low") {
+        db.collection("hotels").find().sort({ hotel_rating: -1 }).toArray((err, data) => {
+            if (err) {
+                throw err;
+            } else {
+                res.send(data);
+            }
+        });
+    } else if (min && max) {
+        db.collection("hotels").find({ hotel_rating: { $gte: min, $lte: max } }).sort({ hotel_rating: sort }).toArray((err, data) => {
             if (err) {
                 throw err;
             } else {
@@ -308,12 +361,12 @@ app.put("/updatebooking/:id", (req, res) => {
 });
 
 // delete booking data
-app.delete("/deletebooking/:id",(req,res)=>{
+app.delete("/deletebooking/:id", (req, res) => {
     let _id = mongo.ObjectId(req.params.id);
-    db.collection("bookings").remove({_id},(err,data)=>{
-        if(err){
+    db.collection("bookings").remove({ _id }, (err, data) => {
+        if (err) {
             throw err
-        }else{
+        } else {
             res.send("booking data is successfully deleted");
         }
     });
@@ -321,16 +374,16 @@ app.delete("/deletebooking/:id",(req,res)=>{
 
 
 // available types of room details
-app.post("/roomdata",(req,res)=>{
-    if(Array.isArray(req.body.id)){
-        db.collection("roomdata").find({room_id:{$in:req.body.id}}).toArray((err,data)=>{
-            if(err){
+app.post("/roomdata", (req, res) => {
+    if (Array.isArray(req.body.id)) {
+        db.collection("roomdata").find({ room_id: { $in: req.body.id } }).toArray((err, data) => {
+            if (err) {
                 throw err
-            }else{
+            } else {
                 res.send(data);
             }
         })
-    }else{
+    } else {
         res.send("Invalid Input");
     }
 })
